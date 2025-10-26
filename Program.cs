@@ -67,7 +67,7 @@ namespace GestionClientes
 
             if (clientes.Count == 0)
             {
-                Console.WriteLine("⚠️ No hay clientes registrados.");
+                Console.WriteLine(" No hay clientes registrados.");
                 return;
             }
 
